@@ -3,7 +3,7 @@
 **Washington University in St. Louis | ESE 105**  
 **Authors: Derek Nester & Riley Panaligan**
 
-> 📄 See the full write-up: [`CASE_STUDY_2.pdf`](CASE_STUDY_2___Circuits_as_Resonators__Sensors__and_Filters__15_.pdf)
+> 📄 See the full write-up: [`CASE_STUDY_2.pdf`](CASE_STUDY_2.pdf)
 
 This case study models RLC circuits as signal processing systems using discrete-time state-space simulation. Starting from first principles (RC and RL circuits), the project builds up to full RLC bandpass filters applied to real audio signals — a noisy music recording and a Mars helicopter sound clip.
 
